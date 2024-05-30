@@ -13,7 +13,7 @@ This is the first version of the aircraft so there might still be bugs. Please l
 It's a fork of the A320 from Flightgear. You can find the Flightgear A320 at: https://github.com/legoboyvdlp/A320-family
 You can find more liveries at: https://github.com/legoboyvdlp/A320-family-liveries/tree/master 
 I encourage everyone to also try the Flightgear A320, they have a very good system simulation and sounds. 
-The aouthors of the X-Plane version are in the Thanks.md file. Please show them some respect.
+The aouthors of the Flightgear version are in the Thanks.md file. Please show them some respect.
 
 
 
