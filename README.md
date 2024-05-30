@@ -3,7 +3,7 @@ This is the repository for the A320 for X-Plane 12.
 
 To download click the green code button and click Download as ZIP. Unpack the ZIP file in your X-Plane Aircraft directory and start X-Plane to fly.
 
-This A320 comes with 8 liveries, Avitab tablet and you can change the liveries from the tablet inside the cockpit.
+This A320 comes with 8 liveries, Avitab tablet and you can change the liveries from the tablet inside the cockpit. This version is the A320-251N (A320 Neo with CFM Leap engines).
 The Exterior and interior come from Flightgear, instrument screens from Laminar. Most buttons already work, all exterior animations work and the aircraft has XP12 exterior lightning.
 Interior lightning has to be included in a upcoming version. The knobs for the interior lightning are not yet usable.
 This is the first version of the aircraft so there might still be bugs. Please let me know if you find any.
